@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/pho-ballah-landingpage-informationsite/static/css/main.6ad738b8.css",
+    "main.js": "/pho-ballah-landingpage-informationsite/static/js/main.834490ea.js",
+    "static/media/meal.mp4": "/pho-ballah-landingpage-informationsite/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/pho-ballah-landingpage-informationsite/static/media/bg.dfd06dc867b35e380621.png",
+    "static/media/welcome.png": "/pho-ballah-landingpage-informationsite/static/media/welcome.ee011ab62b3a6db5cb26.png",
+    "static/media/findus.png": "/pho-ballah-landingpage-informationsite/static/media/findus.516d66182387258a797a.png",
+    "static/media/laurels.png": "/pho-ballah-landingpage-informationsite/static/media/laurels.397ae86efe93fb1fc5f9.png",
+    "static/media/menu.png": "/pho-ballah-landingpage-informationsite/static/media/menu.fd1faa704f5199bd1acb.png",
+    "static/media/gallery01.png": "/pho-ballah-landingpage-informationsite/static/media/gallery01.c36a695f8a3b9d311106.png",
+    "static/media/chef.png": "/pho-ballah-landingpage-informationsite/static/media/chef.75fd0b838e7432fc19b7.png",
+    "static/media/gallery03.png": "/pho-ballah-landingpage-informationsite/static/media/gallery03.f9d6baf8d93adbf78387.png",
+    "static/media/gallery02.png": "/pho-ballah-landingpage-informationsite/static/media/gallery02.d6feb5acf07fe23f4a8e.png",
+    "static/media/knife.png": "/pho-ballah-landingpage-informationsite/static/media/knife.8ac1b6ffd019379ec9af.png",
+    "static/media/overlaybg.png": "/pho-ballah-landingpage-informationsite/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gallery04.png": "/pho-ballah-landingpage-informationsite/static/media/gallery04.85907dc77be735bbc2bb.png",
+    "static/media/G.png": "/pho-ballah-landingpage-informationsite/static/media/G.8eeed78623929338db3c.png",
+    "static/media/logo.png": "/pho-ballah-landingpage-informationsite/static/media/logo.3d403ec66bd61ed5663a.png",
+    "static/media/sign.png": "/pho-ballah-landingpage-informationsite/static/media/sign.a59bb344604fdea6880a.png",
+    "static/media/gericht.png": "/pho-ballah-landingpage-informationsite/static/media/gericht.4d0b94f8ec4c7490325c.png",
+    "static/media/award02.png": "/pho-ballah-landingpage-informationsite/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/pho-ballah-landingpage-informationsite/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/pho-ballah-landingpage-informationsite/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/pho-ballah-landingpage-informationsite/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/pho-ballah-landingpage-informationsite/index.html",
+    "static/media/spoon.svg": "/pho-ballah-landingpage-informationsite/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
+    "main.6ad738b8.css.map": "/pho-ballah-landingpage-informationsite/static/css/main.6ad738b8.css.map",
+    "main.834490ea.js.map": "/pho-ballah-landingpage-informationsite/static/js/main.834490ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ad738b8.css",
+    "static/js/main.834490ea.js"
+  ]
+}
